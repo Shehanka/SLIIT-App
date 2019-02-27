@@ -1,0 +1,6 @@
+{
+  "appId": "com.chamodshehanka.sliitapp",
+  "appName": "sliitApp",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

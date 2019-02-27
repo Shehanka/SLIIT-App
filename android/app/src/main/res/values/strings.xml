@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sliitApp</string>
+    <string name="title_activity_main">sliitApp</string>
+    <string name="package_name">com.chamodshehanka.sliitapp</string>
+    <string name="fileprovider_authority">com.chamodshehanka.sliitapp.fileprovider</string>
+    <string name="custom_url_scheme">com.chamodshehanka.sliitapp</string>
+</resources>
